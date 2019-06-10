@@ -1,0 +1,10 @@
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSearch.BU\bin\Debug\TheaterSearch.Business.dll
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSearch.BU\bin\Debug\TheaterSearch.Business.pdb
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSearch.BU\obj\Debug\TheaterSearch.Business.csproj.CoreCompileInputs.cache
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSearch.BU\obj\Debug\TheaterSearch.Business.dll
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSearch.BU\obj\Debug\TheaterSearch.Business.pdb
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSearch.Business\bin\Debug\TheaterSearch.Business.dll
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSearch.Business\bin\Debug\TheaterSearch.Business.pdb
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSearch.Business\obj\Debug\TheaterSearch.Business.csproj.CoreCompileInputs.cache
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSearch.Business\obj\Debug\TheaterSearch.Business.dll
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSearch.Business\obj\Debug\TheaterSearch.Business.pdb

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaterSeating", "TheaterSeating\TheaterSeating.csproj", "{40EA91FA-81AA-414D-9A5C-2121F48D9F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaterSearch.Business", "TheaterSearch.Business\TheaterSearch.Business.csproj", "{52BC0707-1ABE-4239-BACD-A45E0CFCEDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheatreSeatingTest", "TheatreSeatingTest\TheatreSeatingTest.csproj", "{95357C67-258D-4377-8E7B-9075A44F2900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40EA91FA-81AA-414D-9A5C-2121F48D9F59}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{40EA91FA-81AA-414D-9A5C-2121F48D9F59}.Debug|x86.ActiveCfg = Debug|x86
+		{40EA91FA-81AA-414D-9A5C-2121F48D9F59}.Debug|x86.Build.0 = Debug|x86
+		{40EA91FA-81AA-414D-9A5C-2121F48D9F59}.Release|Any CPU.ActiveCfg = Release|x86
+		{40EA91FA-81AA-414D-9A5C-2121F48D9F59}.Release|x86.ActiveCfg = Release|x86
+		{40EA91FA-81AA-414D-9A5C-2121F48D9F59}.Release|x86.Build.0 = Release|x86
+		{52BC0707-1ABE-4239-BACD-A45E0CFCEDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BC0707-1ABE-4239-BACD-A45E0CFCEDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BC0707-1ABE-4239-BACD-A45E0CFCEDBD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{52BC0707-1ABE-4239-BACD-A45E0CFCEDBD}.Debug|x86.Build.0 = Debug|Any CPU
+		{52BC0707-1ABE-4239-BACD-A45E0CFCEDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BC0707-1ABE-4239-BACD-A45E0CFCEDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BC0707-1ABE-4239-BACD-A45E0CFCEDBD}.Release|x86.ActiveCfg = Release|Any CPU
+		{52BC0707-1ABE-4239-BACD-A45E0CFCEDBD}.Release|x86.Build.0 = Release|Any CPU
+		{95357C67-258D-4377-8E7B-9075A44F2900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95357C67-258D-4377-8E7B-9075A44F2900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95357C67-258D-4377-8E7B-9075A44F2900}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{95357C67-258D-4377-8E7B-9075A44F2900}.Debug|x86.Build.0 = Debug|Any CPU
+		{95357C67-258D-4377-8E7B-9075A44F2900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95357C67-258D-4377-8E7B-9075A44F2900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95357C67-258D-4377-8E7B-9075A44F2900}.Release|x86.ActiveCfg = Release|Any CPU
+		{95357C67-258D-4377-8E7B-9075A44F2900}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8646C6-8A25-4A69-A9D6-F1ABD7216694}
+	EndGlobalSection
+EndGlobal

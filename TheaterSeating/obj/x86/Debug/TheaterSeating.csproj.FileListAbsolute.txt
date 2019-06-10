@@ -1,0 +1,10 @@
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSeating\bin\Debug\TheaterSeating.exe.config
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSeating\bin\Debug\TheaterSeating.exe
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSeating\bin\Debug\TheaterSeating.pdb
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSeating\bin\Debug\TheaterSearch.Business.dll
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSeating\bin\Debug\TheaterSearch.Business.pdb
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSeating\obj\x86\Debug\TheaterSeating.csprojAssemblyReference.cache
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSeating\obj\x86\Debug\TheaterSeating.csproj.CoreCompileInputs.cache
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSeating\obj\x86\Debug\TheaterSeating.csproj.CopyComplete
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSeating\obj\x86\Debug\TheaterSeating.exe
+D:\Projects\TheaterSeatingProgram\TheaterSeating\TheaterSeating\obj\x86\Debug\TheaterSeating.pdb
